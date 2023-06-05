@@ -1,0 +1,20 @@
+.portfolio-container {
+  text-align: center;
+}
+
+.image-links {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Adjust the number of columns as needed */
+  grid-gap: 20px; /* Adjust the gap between images */
+}
+
+.image-links a {
+  display: block;
+}
+
+.image-links img {
+  width: 100%;
+  max-width: 300px; /* Adjust the maximum width of the images */
+  height: auto;
+  border-radius: 8px; /* Add rounded corners to the images */
+}
