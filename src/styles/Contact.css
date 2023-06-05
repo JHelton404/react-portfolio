@@ -1,0 +1,33 @@
+/* Contact.css */
+
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+
+.contact-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.contact-links {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.contact-links h2 {
+  margin: 10px 50px;
+}
+
+.contact-links a {
+  text-decoration: none;
+  color: #333;
+}
+
+.contact-links a:hover {
+  color: #666;
+}
