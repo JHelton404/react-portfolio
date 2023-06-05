@@ -1,0 +1,36 @@
+/* Navbar.css */
+
+.navbar {
+  background-color: #22323E;
+  height: 100px;
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+  padding: 0 50px;
+  color: #fff;
+}
+
+.myName {
+  margin-right: auto; 
+  color: #ccc;
+}
+
+.links {
+  display: flex;
+}
+
+.links a {
+  color: #ccc;
+  font-weight: bolder;
+  text-decoration: none;
+  margin-left: 20px; 
+  font-size: 30px;
+}
+
+.links a:first-child {
+  margin-left: 0;
+}
+
+.links a:hover {
+  color: #71B5DF;
+}
