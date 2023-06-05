@@ -1,0 +1,10 @@
+This is where I am going to note down ideas for future development of this webpage and is not a part of the page itself.
+
+Need to focus on styling of About Me and Contact pages
+  - About Me page currently has uneven styling, should be cleaner and more evenly designed
+  - About Me page needs a good photo of myself to add (currently no good photos available, should match Linked In profile picture)
+  - Contact page should add free logos to websites to help user identify where they are being taken
+
+Resume needs to be built and added
+
+Portfolio could use some nicer projects (to be completed at a later date! :-D)
